@@ -8,8 +8,8 @@ def printError(qq):
     from urllib import parse
     import random
     import json
-    appid = '20191017000342288'  # 填写你的appid
-    secretKey = 'EuXjKM5yjLkEk72MhYN4'  # 填写你的密钥
+    appid = ''  # 填写你的appid
+    secretKey = ''  # 填写你的密钥
     httpClient = None
     myurl = '/api/trans/vip/translate'
 
